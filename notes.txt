@@ -1,0 +1,32 @@
+DB Name	DB 
+id3758224_dmaps	
+
+User		 
+id3758224_dmaps	
+
+DB Host
+localhost
+	
+Manage 
+Manage
+
+dmaps
+dmaps9988
+
+table-weather
+id
+temp
+hum
+
+table-led
+id
+status
+
+
+https://dmaps.000webhostapp.com/api/led/read_all.php
+
+php admin
+------
+id3758224_dmaps
+dmaps9988
+
